@@ -3,7 +3,7 @@ import { createRoot } from 'react-dom/client';
 import './index.css';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import { Provider } from 'react-redux';  
-import { store } from './store/Store.js';   
+import { store } from './Store/Store.js';   
 import Home from './Pages/Home';
 import About from './Pages/About';
 import Contact from './Pages/Contact';

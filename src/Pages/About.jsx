@@ -29,7 +29,7 @@ const About = () => {
               className="mx-auto mb-4 rounded-full"
             />
             <h3 className="text-xl font-semibold mb-2">Dibas Poudel</h3>
-            <p className="text-gray-600">CEO & Founder</p>
+            <p className="text-gray-600"> Founder</p>
           </div>
           <div className="bg-white p-6 shadow rounded text-center">
             <img
@@ -37,8 +37,8 @@ const About = () => {
               alt="Team Member"
               className="mx-auto mb-4 rounded-full"
             />
-            <h3 className="text-xl font-semibold mb-2">Shishir Kc</h3>
-            <p className="text-gray-600">Rapper</p>
+            <h3 className="text-xl font-semibold mb-2"> Xyz</h3>
+            <p className="text-gray-600">Co-Founder</p>
           </div>
           <div className="bg-white p-6 shadow rounded text-center">
             <img
@@ -46,7 +46,7 @@ const About = () => {
               alt="Team Member"
               className="mx-auto mb-4 rounded-full"
             />
-            <h3 className="text-xl font-semibold mb-2">Sornim KC</h3>
+            <h3 className="text-xl font-semibold mb-2">abc</h3>
             <p className="text-gray-600">Lead Developer</p>
           </div>
         </div>
@@ -56,8 +56,8 @@ const About = () => {
               alt="Team Member"
               className="mx-auto mb-4 rounded-full"
             />
-            <h3 className="text-xl font-semibold mb-2">Bipin Oli</h3>
-            <p className="text-gray-600">Hency don</p>
+            <h3 className="text-xl font-semibold mb-2">rfg</h3>
+            <p className="text-gray-600">Manager</p>
           </div>
       </section>
     </div>
